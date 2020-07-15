@@ -16,7 +16,7 @@ This project provided an understanding of chatbots and other AI-enabled resource
 
 ## Overview
 With the Watson Assistant powered Crisis Communications Starter Kit, created a chatbot on an IBM Cloud hosted web server.  
-Access chatbot at https://covid-assistant-simple-carty.mybluemix.net.
+The chatbot can be accessed at https://covid-assistant-simple-carty.mybluemix.net when a Watson Assistance instance is launched.
 
 By building out a more complete solution of the initial chatbot framework provided by IBM’s Call-for-Code 2020 Solution Starter Kit, its capabilities were expanded to provide answers and comfort to children affected by the COVID19 crisis.  This was accomplished by creating new intents, entities and dialog nodes capable of addressing the concerns of children during the COVID-19 pandemic, as well as, creating additional entities and annotations to further train the chatbot.
 
@@ -27,8 +27,12 @@ Communications are needed in a time of crisis and chatbots are an excellent way 
 
 
 ## Video
+![Project Demo](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/video/chatbot_demo-vid.mov)
 - [Project Demo](https://vimeo.com/435363746)
 
+
+Dialog Skill showing Trained Data with number of Intents, Entities and Dialog Nodes
+![Skills FAQ](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/skill_cdc_covid_faq-img.png) 
 
 ## Steps for Initial Build 
 Summary of steps for initial build of COVID Crisis Communication Chatbot using tutorials provided by IBM.
@@ -48,17 +52,20 @@ Summary of steps for initial build of COVID Crisis Communication Chatbot using t
 Built out chatbot by adding Intents, Entities and Dialog Nodes to address concerns specific to children.
 
 1. Add new Intents 
-img
-2. Add new Entities 
-img
+![Intent ChatbotForKids](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/intents_chatbotforkids_chatbotimage-img.png) 
+![Intent Jokes](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/intent_jokes-img.png)  
+2. Add new Entities; Add synonyms to existing Entities
+![Entity Family](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_family-img.png) 
+![Entity Friends](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_friends-img.png) 
+![Entity Pet](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_pet-img.png) 
+![Entity Child](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_child-img.png) 
+![Entity SchoolType](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_school_type-img.png) 
 3. Add Dialog Nodes 
-img
+![Dialog Node](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/dialog_node_chatbotforkids-img.png)
 4. Create favicon for chatbot at www.favicon.cc.
-img
+![Favicon Chatbot](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/favicon_chatbot-img.ico) 
 5. Create game features for children such as a guessing game (similar to “Hangman”) for common COVID-19 terms, or design a face covering for bot. (Future feature)  
-5. Add webhook and dialog node for instructions to make your own face mask. (Future feature)
-6. Add webhook and dialog node for instructions on cleaning and care of a cloth facial mask or when to replace a mask. (Future feature)
-7. Deploy as a third party integration by adding to Slack app as a bot user. (Future feature)
+6. Deploy as a third party integration by adding to Slack app as a bot user. (Future feature)
 
 
 ## Resources
