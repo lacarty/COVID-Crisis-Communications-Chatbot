@@ -30,8 +30,9 @@ Communications are needed in a time of crisis and chatbots are an excellent way 
 - [Project Demo](https://vimeo.com/435363746)
 
 
-Dialog Skill showing Trained Data with number of Intents, Entities and Dialog Nodes
-![Skills FAQ](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/skill_cdc_covid_faq-img.png) 
+### Watson Assistant Dialog Skill showing Trained Data with number of Intents, Entities and Dialog Nodes
+![Skills FAQ](/images/skill_cdc_covid_faq-img.png) 
+
 
 ## Steps for Initial Build 
 Summary of steps for initial build of COVID Crisis Communication Chatbot using tutorials provided by IBM.
@@ -47,24 +48,32 @@ Summary of steps for initial build of COVID Crisis Communication Chatbot using t
 9. Deploy the application on IBM Cloud as a Cloud Foundry application.
 
 
+
 ## Features of Expanded Build 
 Built out chatbot by adding Intents, Entities and Dialog Nodes to address concerns specific to children.
 
-1. Add new Intents 
-![Intent ChatbotForKids](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/intents_chatbotforkids_chatbotimage-img.png) 
-![Intent Jokes](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/intent_jokes-img.png)  
-2. Add new Entities; Add synonyms to existing Entities
-![Entity Family](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_family-img.png) 
-![Entity Friends](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_friends-img.png) 
-![Entity Pet](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_pet-img.png) 
-![Entity Child](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_child-img.png) 
-![Entity SchoolType](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/entity_school_type-img.png) 
-3. Add Dialog Nodes 
-![Dialog Node](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/dialog_node_chatbotforkids-img.png)
-4. Create favicon for chatbot at www.favicon.cc.
-![Favicon Chatbot](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/images/favicon_chatbot-img.ico) 
-5. Create game features for children such as a guessing game (similar to “Hangman”) for common COVID-19 terms, or design a face covering for bot. (Future feature)  
-6. Deploy as a third party integration by adding to Slack app as a bot user. (Future feature)
+
+### 1. Add new Intents 
+![Intent ChatbotForKids](/images/intents_chatbotforkids_chatbotimage-img.png) 
+![Intent Jokes](/images/intent_jokes-img.png)  
+
+### 2. Add new Entities; Add synonyms to existing Entities
+![Entity Family](/images/entity_family-img.png) 
+![Entity Friends](/images/entity_friends-img.png) 
+![Entity Pet](/images/entity_pet-img.png) 
+![Entity Child](/images/entity_child-img.png) 
+![Entity SchoolType](/images/entity_school_type-img.png) 
+
+### 3. Add Dialog Nodes 
+![Dialog Node](/images/dialog_node_chatbotforkids-img.png)
+
+### 4. Create favicon for chatbot at www.favicon.cc.
+![Favicon Chatbot](/images/favicon_chatbot-img.ico) 
+
+### 5. Create game features for children such as a guessing game (similar to “Hangman”) for common COVID-19 terms, or design a face covering for bot. (Future feature)  
+
+### 6. Deploy as a third party integration by adding to Slack app as a bot user. (Future feature)
+
 
 
 ## Resources
@@ -80,6 +89,7 @@ Built out chatbot by adding Intents, Entities and Dialog Nodes to address concer
 - [Watson Assistant, Adding Entities](https://cloud.ibm.com/docs/assistant?topic=assistant-entities#entities-annotations-overview)
 - [Watson Assistant, Contextual Entities](https://youtu.be/3WjzJpLsnhQ)
 - [CDC, Coronavirus Disease COVID-19, Frequently Asked Questions](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+
 
 
 ## Datasets
