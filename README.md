@@ -27,7 +27,6 @@ Communications are needed in a time of crisis and chatbots are an excellent way 
 
 
 ## Video
-![Project Demo](https://raw.github.com/lacarty/covid_crisis_communication_chatbot/video/chatbot_demo-vid.mov)
 - [Project Demo](https://vimeo.com/435363746)
 
 
