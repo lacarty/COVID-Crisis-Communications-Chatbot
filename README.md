@@ -27,11 +27,8 @@ Communications are needed in a time of crisis and chatbots are an excellent way 
 
 
 ## Video
-- [Project Demo](https://vimeo.com/435363746)
 
-
-### Watson Assistant Dialog Skill showing Trained Data with number of Intents, Entities and Dialog Nodes
-![Skills FAQ](/images/skill_cdc_covid_faq-img.png) 
+[![Project Demo](/images/demo_video-img.png)](https://vimeo.com/435363746)
 
 
 ## Steps for Initial Build 
@@ -46,6 +43,10 @@ Summary of steps for initial build of COVID Crisis Communication Chatbot using t
 7. Connect the application to a chatbot using the IBM Watson Assistant APIs.
 8. Test and run the application locally.
 9. Deploy the application on IBM Cloud as a Cloud Foundry application.
+
+
+### Watson Assistant Dialog Skill
+![Skills FAQ](/images/skill_cdc_covid_faq-img.png) 
 
 
 
