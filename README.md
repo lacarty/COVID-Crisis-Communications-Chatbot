@@ -18,7 +18,7 @@ This project provided an understanding of chatbots and other AI-enabled resource
 With the Watson Assistant powered Crisis Communications Starter Kit, created a chatbot on an IBM Cloud hosted web server.  
 The chatbot can be accessed at https://covid-assistant-simple-carty.mybluemix.net when a Watson Assistance instance is launched.
 
-By building out a more complete solution of the initial chatbot framework provided by IBM’s Call-for-Code 2020 Solution Starter Kit, its capabilities were expanded to provide answers and comfort to children affected by the COVID19 crisis.  This was accomplished by creating new intents, entities and dialog nodes capable of addressing the concerns of children during the COVID-19 pandemic, as well as, creating additional entities and annotations to further train the chatbot.
+By building out a more complete solution of the initial chatbot framework provided by IBM’s Call-for-Code 2020 Solution Starter Kit, its capabilities were expanded to provide answers and comfort to children affected by the COVID-19 crisis.  This was accomplished by creating new intents, entities and dialog nodes capable of addressing the concerns of children during the COVID-19 pandemic, as well as, creating additional entities and annotations to further train the chatbot.
 
 The chatbot can respond by sharing consistent and accurate information, automating answers to common coronavirus questions and dynamically updating information with the latest developments and recommendations.
 
