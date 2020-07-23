@@ -1,4 +1,4 @@
-# COVID Crisis Communications Chatbot
+# Crisis Communications Chatbot
 
 This project provided an understanding of chatbots and other AI-enabled resources through the use of IBM Watson Assistant services to build, train and deploy conversational interactions into an application.  
 
@@ -20,7 +20,7 @@ The chatbot can be accessed at https://covid-assistant-simple-carty.mybluemix.ne
 
 By building out a more complete solution of the initial chatbot framework provided by IBM’s Call-for-Code 2020 Solution Starter Kit, its capabilities were expanded to provide answers and comfort to children affected by the COVID19 crisis.  This was accomplished by creating new intents, entities and dialog nodes capable of addressing the concerns of children during the COVID-19 pandemic, as well as, creating additional entities and annotations to further train the chatbot.
 
-The chatbot can respond by sharing consistent and accurate information, automating answers to common COVID-19 questions and dynamically updating information with the latest developments and recommendations.
+The chatbot can respond by sharing consistent and accurate information, automating answers to common coronavirus questions and dynamically updating information with the latest developments and recommendations.
 
 ### The problem
 Communications are needed in a time of crisis and chatbots are an excellent way to provide information and open up resources.  Though it may not be noticeable, children experience quite a bit of fear and anxiety during a crisis situation.  This chatbot was expanded to help alleviate those fears by answering the questions of children, such as, “Can I hug my dog?” or “Why do I have to stay home?” Children can interact with the chatbot by asking various questions regarding coronavirus, laughing at chatbot’s jokes and even playing a few games!  This chatbot will be you child’s source of comfort and a digital friend when they find themselves feeling uneasy and facing the unknown.  They will gain a better understanding of the coronavirus, thereby enabling them to feel more in control and secure. 
@@ -32,7 +32,7 @@ Communications are needed in a time of crisis and chatbots are an excellent way 
 
 
 ## Steps for Initial Build 
-Summary of steps for initial build of COVID Crisis Communication Chatbot using tutorials provided by IBM.
+Summary of steps for initial build of Crisis Communication Chatbot using tutorials provided by IBM.
 
 1. Provision an instance of Watson Assistant (Requires registering for an IBM Cloud account).
 2. Add a dialog skill to your Watson Assistant instance.
