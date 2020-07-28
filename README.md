@@ -71,9 +71,12 @@ Built out chatbot by adding Intents, Entities and Dialog Nodes to address concer
 ### 4. Create favicon for chatbot at www.favicon.cc.
 ![Favicon Chatbot](/images/favicon_chatbot-img.ico) 
 
-### 5. Create game features for children such as a guessing game (similar to “Hangman”) for common COVID-19 terms, or design a face covering for bot. (Future feature)  
+### 5. Drawing of chatbot provided by A.S.
+![Drawing Chatbot](/images/drawing_chatbot-img.ico)
 
-### 6. Deploy as a third party integration by adding to Slack app as a bot user. (Future feature)
+### 6. Create game features for children such as a guessing game (similar to “Hangman”) for common COVID-19 terms, or design a face covering for bot. (Future feature)  
+
+### 7. Deploy as a third party integration by adding to Slack app as a bot user. (Future feature)
 
 
 
